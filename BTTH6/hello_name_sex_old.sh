@@ -1,4 +1,5 @@
 #!/bin/bash
+# bài 3 
 
 read -p "Nhap ten, nam sinh va gioi tinh: " name old sex
 

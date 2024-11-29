@@ -1,4 +1,5 @@
 #!/bin/bash
+# bài 4 
 
 read -p "Moi ban nhap so thu nhat: " so1
 read -p "Moi ban nhap so thu hai: " so2
