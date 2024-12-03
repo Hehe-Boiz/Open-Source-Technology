@@ -6,6 +6,7 @@ import csv
 
 with open('test/sinhvien.csv', 'r') as f:
     reader = csv.reader(f)
-    for col in reader:
-        print(col)
+    for line in reader:
+        for col in line:
+            print(col)
 
